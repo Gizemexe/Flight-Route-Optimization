@@ -1,0 +1,7 @@
+pip == 24.3.1
+Matplotlib == 3.9.3
+pandas == 2.2.3
+scikit-learn == 1.6.0
+tensorflow == 2.18.0
+NetworkX == 3.4.2
+seaborn == 0.13.2
