@@ -136,7 +136,7 @@ cd flight-route-optimization
 ### Requirements
 
 ```bash
-pip install pandas numpy scikit-learn matplotlib networkx
+pip install requirements.txt
 ```
 
 ## Usage
